@@ -13,6 +13,3 @@ def release_year():
 artist()
 lyricist()
 release_year()
-
-# I wanted to do the boolean for extra credits
-# but I'm encounering Recurrsion Error
